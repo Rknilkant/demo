@@ -36,5 +36,5 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: | 
-            ghcr.io/Rknilkant/demo:latest
+            ghcr.io/rknilkant/demo:latest
           platforms: linux/amd64,linux/arm64,linux/arm/v7
